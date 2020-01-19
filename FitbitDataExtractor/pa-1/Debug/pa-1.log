@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (pa-1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  functions.c
+c:\users\talak\documents\personal\github\data structures\pa-1\pa-1\pa-1\functions.c(174): warning C4142: 'stepsMax': benign redefinition of type
+  c:\users\talak\documents\personal\github\data structures\pa-1\pa-1\pa-1\header.h(35): note: see declaration of 'stepsMax'
+  main.c
+  Generating Code...
+  pa-1.vcxproj -> C:\Users\talak\Documents\Personal\Github\Data Structures\PA-1\pa-1\Debug\FitbitReader.exe
