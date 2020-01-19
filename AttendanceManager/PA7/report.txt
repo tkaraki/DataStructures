@@ -1,0 +1,44 @@
+Name: John Smith
+Absences: 1
+Absence Dates: 2019-4-25
+
+Name: John Smith
+Absences: 1
+Absence Dates: 2019-4-25
+
+Name: Sara Beck
+Absences: 0
+Absence Dates: List of Absences is Empty.
+
+Name: Timothy Leinart
+Absences: 1
+Absence Dates: 2019-4-25
+
+Name: Bruce Art
+Absences: 0
+Absence Dates: List of Absences is Empty.
+
+Name: Hannah James
+Absences: 0
+Absence Dates: List of Absences is Empty.
+
+Name: Ella Payton
+Absences: 0
+Absence Dates: List of Absences is Empty.
+
+Name: Theo Sam
+Absences: 0
+Absence Dates: List of Absences is Empty.
+
+Name: Jane Smith
+Absences: 1
+Absence Dates: 2019-4-25
+
+Name: Bruce Willis
+Absences: 1
+Absence Dates: 2019-4-25
+
+Name: Kris Mort
+Absences: 1
+Absence Dates: 2019-4-25
+
