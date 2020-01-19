@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\talak\documents\wsu\spring2019\cpts122\pa\pa6-templated\pa6-templated\bst.h(223): warning C4018: '<': signed/unsigned mismatch
+  c:\users\talak\documents\wsu\spring2019\cpts122\pa\pa6-templated\pa6-templated\bst.h(221): note: while compiling class template member function 'void BST<char,std::string>::convertTextHelper(T2)'
+          with
+          [
+              T2=std::string
+          ]
+  c:\users\talak\documents\wsu\spring2019\cpts122\pa\pa6-templated\pa6-templated\bst.h(208): note: see reference to function template instantiation 'void BST<char,std::string>::convertTextHelper(T2)' being compiled
+          with
+          [
+              T2=std::string
+          ]
+  c:\users\talak\documents\wsu\spring2019\cpts122\pa\pa6-templated\pa6-templated\bst.h(40): note: while compiling class template member function 'BST<char,std::string>::BST(void)'
+  c:\users\talak\documents\wsu\spring2019\cpts122\pa\pa6-templated\pa6-templated\main.cpp(15): note: see reference to function template instantiation 'BST<char,std::string>::BST(void)' being compiled
+  c:\users\talak\documents\wsu\spring2019\cpts122\pa\pa6-templated\pa6-templated\main.cpp(15): note: see reference to class template instantiation 'BST<char,std::string>' being compiled
+c:\users\talak\documents\wsu\spring2019\cpts122\pa\pa6-templated\pa6-templated\bst.h(230): warning C4018: '<': signed/unsigned mismatch
+  PA6-Templated.vcxproj -> C:\Users\talak\Documents\WSU\Spring2019\CPTS122\PA\PA6-Templated\Debug\PA6-Templated.exe
