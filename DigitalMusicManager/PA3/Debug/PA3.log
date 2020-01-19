@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (PA3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  functions.c
+c:\users\talak\documents\personal\github\data structures\pa3\pa3\functions.c(632): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.c
+  TestDMM.c
+  Generating Code...
+  PA3.vcxproj -> C:\Users\talak\Documents\Personal\Github\Data Structures\PA3\Debug\DigitalMusicManager.exe

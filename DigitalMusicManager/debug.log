@@ -1,0 +1,7 @@
+[0321/131039:INFO:(0)] WebCore is now online.
+[0321/131039:INFO:(0)] Running Awesomium 1.7.5.1
+[0415/203754:INFO:(0)] WebCore is now online.
+[0415/203754:INFO:(0)] Running Awesomium 1.7.5.1
+[0718/011719:INFO:(0)] WebCore is now online.
+[0718/011719:INFO:(0)] Running Awesomium 1.7.5.1
+[0718/025139:ERROR:socket_stream_dispatcher_host.cc(143)] socket_id=1 already closed.
